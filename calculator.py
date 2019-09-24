@@ -1,5 +1,5 @@
 a = input()
-operator = input()
-b = input()
+Operator = input()
+b =input()
 с = a*b
 
