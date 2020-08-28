@@ -1,1 +1,1 @@
-# Homeworks for python course in bioinformatic institute
+# Example repository for 2020/20 bioinformatic institute python course
